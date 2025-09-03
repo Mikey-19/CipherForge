@@ -86,6 +86,14 @@ Python 3.9+
 
 PyQt5 (GUI)
 ```
+
+
+
+
+![CipherForge-dark](CipherForge-dark.png)
+
+![CipherForge-InAction](CipherForge-inAction.png)
+
  License
 
 This project is for educational and research purposes only.
@@ -95,7 +103,3 @@ This project is for educational and research purposes only.
 Developed by Michael Aryee as part of a cybersecurity internship project at Inlighn Tech.
 
 
-
-![CipherForge-dark](CipherForge-dark.png)
-
-![CipherForge-InAction](CipherForge-inAction.png)
